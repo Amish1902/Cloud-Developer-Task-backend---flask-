@@ -18,8 +18,6 @@
     "ssr",
     "server-side-rendering"
   ],
-  "author": "Mars Hall",
-  "license": "MIT",
   
   "dependencies": {
     "next": "^9.0.6",
